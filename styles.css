@@ -1,0 +1,42 @@
+nav {
+    color: #d2691e;
+    font-size: 18px;
+    
+}
+
+a {
+    color: yellow;
+    font-size: 22px;
+}
+
+h1, h3 {
+    color: #d2691e;
+}
+
+body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+    color: rgb(14, 14, 1);
+ }
+ p {
+     font-size: 22px;
+     
+ }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.smaller {
+    width: 30%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    color: rgb(14, 14, 1);
+
+}
