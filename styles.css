@@ -5,8 +5,8 @@ nav {
 }
 
 a {
-    color: yellow;
-    font-size: 22px;
+    color: darkred;
+    font-size: 30px;
 }
 
 h1, h3 {
@@ -39,4 +39,10 @@ footer {
     text-align: center;
     color: rgb(14, 14, 1);
 
+}
+.button {
+    border: 2px solid yellow;
+    background-color: #d2691e;
+    color: black;
+    font-size: 20px;
 }
